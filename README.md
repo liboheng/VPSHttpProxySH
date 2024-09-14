@@ -10,4 +10,5 @@
 
    ```bash
    wget https://raw.githubusercontent.com/liboheng/VPSHttpProxySH/main/vps-https-proxy.sh
-   chmod +x vps-https-proxy.sh prot username password
+   sudo chmod +x vps-https-proxy.sh
+   sudo ./vps-https-proxy.sh prot username password
